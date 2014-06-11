@@ -19,6 +19,9 @@
   "homepage": "https://github.com/mattlo/fedgen-js",
   "preferGlobal": "true",
   "bin": {
-    "fedgen" : "lib/fedgen.js"
+    "fedgen": "lib/fedgen.js"
+  },
+  "dependencies": {
+    "q": "~1.0.1"
   }
 }

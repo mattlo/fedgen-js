@@ -22,6 +22,7 @@
     "fedgen": "lib/fedgen.js"
   },
   "dependencies": {
-    "q": "~1.0.1"
+    "q": "~1.0.1",
+    "colors": "~0.6.2"
   }
 }

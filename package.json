@@ -1,0 +1,24 @@
+{
+  "name": "fedgen",
+  "version": "1.0.0",
+  "description": "Scaffolds out code and directories for generic front end projects.",
+  "main": "lib/fedgen.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattlo/fedgen-js.git"
+  },
+  "keywords": [
+    "scaffold",
+    "generator"
+  ],
+  "author": "Matt Lo",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/mattlo/fedgen-js/issues"
+  },
+  "homepage": "https://github.com/mattlo/fedgen-js",
+  "preferGlobal": "true",
+  "bin": {
+    "fedgen" : "lib/fedgen.js"
+  }
+}
